@@ -1,11 +1,11 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * Description: C program that prints a function followed by a new line using put command
+ * Description: C program that print function by a new line using put
  * Return: 0 if successful
  */
 int main(void)
 {
- puts("\"Programming is like building a multilingual puzzle");
- return (0);
+puts("\"Programming is like building a multilingual puzzle");
+return (0);
 }
