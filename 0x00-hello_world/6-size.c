@@ -1,5 +1,5 @@
 #include <stdio.h>
-main (void)
+main(void)
 {
 		/* sizeof evaluates the size of a variable */
 		printf("Size of a char: %d byte(s)\n", sizeof(char));
