@@ -2,10 +2,11 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main: Returns lower and uppercase alphabets
+ * main- returns lower and uppercase alphabets
  *
  * Return: returns 0 (successful)
  */
+
 int main(void)
 {
 char ch;
@@ -17,7 +18,7 @@ putchar (ch);
 for (ch = 'A' ; ch <= 'Z' ; ch++)
 {
 putchar (ch);
-} 
+}
 putchar ('\n');
 return (0);
 }
