@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "main.h"
 /* description */
 
 void print_alphabet(void)
